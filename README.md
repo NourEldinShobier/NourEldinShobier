@@ -1,12 +1,5 @@
 <h1 align="center"><👋 Hello, World! /></h1>
 
-<div align="center"> 
-
-![GitHub followers](https://img.shields.io/github/followers/NourEldinShobier?label=Followers)
-[![Repos Badge](https://badges.pufler.dev/repos/NourEldinShobier)](https://badges.pufler.dev)
-
-</div>
-
 Hi, I'm Nour Shobier, a Flutter developer with UI/UX design skills. Some technologies I enjoy working with include React, Prisma, NestJS, Firebase, and Figma. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 
 In my spare time, I like to watch anime or listen to Of Monsters and Men.
