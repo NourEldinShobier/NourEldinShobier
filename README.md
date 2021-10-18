@@ -6,7 +6,6 @@ In my spare time, I like to watch anime or listen to Of Monsters and Men.
 
 #### 🧐 More About Me:
 
-- 🏢 I'm currently looking for a job opportunity
 - 🔭 I’m currently working on Carbon Flutter 💎
 - 🌱 I’m currently improving my skills in React and TypeScript
 - 💬 Ask me about Flutter and I will answer eagerly! ✌😁
