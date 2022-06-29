@@ -64,7 +64,6 @@ In my spare time, I like to watch anime or listen to Of Monsters and Men.
 ### ⚡ Talk With Me About:
 
 - Creating scalable apps and improving their performance.
-- System design.
 - Desktop application development using Flutter (Still learning).
 - Cool full-stack projects.
 - Problem solving and data structures questions.
@@ -88,9 +87,10 @@ In my spare time, I like to watch anime or listen to Of Monsters and Men.
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
         <a href="https://reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
+        <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" />
+        </a>
         <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="nodejs" width="40" height="40" /> </a>
         <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
-        <a href="https://graphql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
         <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="express" width="40" height="40" />
         </a>
         <a href="https://www.prisma.io/" target="_blank"> <img src="https://bestofjs.org/logos/prisma.svg" alt="docker" width="40" height="40" /> </a>
@@ -101,8 +101,12 @@ In my spare time, I like to watch anime or listen to Of Monsters and Men.
         </a>
         <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
         </a>
-     
-     
+        <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
+        </a>
+        <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
+        </a>
+        <a href="https://rubyonrails.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40" />
+        </a>
 </p>
 
 ---
