@@ -7,7 +7,7 @@ In my spare time, I like to watch anime or listen to Of Monsters and Men.
 #### 🧐 More About Me:
 
 - 🔭 I’m currently working on Carbon Flutter 💎
-- 🌱 I’m currently improving my skills in devops
+- 🌱 I’m currently improving my skills in DevOps
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nourshobier/), or [nour.eldin.shobier@gmail.com](mailto:nour.eldin.shobier@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching anime
