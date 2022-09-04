@@ -63,7 +63,6 @@ In my spare time, I like to watch anime or listen to Of Monsters and Men.
 ### ⚡ Talk With Me About:
 
 - Creating scalable apps and improving their performance.
-- Desktop application development using Flutter (Still learning).
 - Cool full-stack projects.
 - Problem solving and data structures questions.
 - Anime! 😆.
