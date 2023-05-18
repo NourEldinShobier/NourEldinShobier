@@ -2,7 +2,7 @@
 
 I wear different hats. I’m a full-stack developer and a Flutter enthusiast who has been playing with it ever since it was Beta. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 
-In my spare time, I like to watch anime or listen to Of Monsters and Men.
+In my spare time, I like to watch anime or listen to Adele and Of Monsters and Men.
 
 #### 🧐 More About Me:
 
@@ -64,7 +64,6 @@ In my spare time, I like to watch anime or listen to Of Monsters and Men.
 
 - Creating scalable apps and improving their performance.
 - Cool full-stack projects.
-- Problem solving and data structures questions.
 - Anime! 😆.
 
 ---
