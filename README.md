@@ -6,7 +6,7 @@ In my spare time, I like to watch anime or listen to Adele and Of Monsters and M
 
 #### 🧐 More About Me:
 
-- 🌱 I’m currently improving my skills in Backend development and DevOps
+- 🌱 I’m currently improving my skills in DevOps
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nourshobier/), or [nour.eldin.shobier@gmail.com](mailto:nour.eldin.shobier@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching anime
