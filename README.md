@@ -1,6 +1,6 @@
 <h1 align="center"><👋 Hello, World! /></h1>
 
-I wear different hats. I’m a full-stack developer and a Flutter enthusiast who has been playing with it ever since it was Beta. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
+I wear different hats. I’m a senior software engineer and a Flutter geek who has been playing with it ever since it was Beta. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 
 In my spare time, I like to watch anime or listen to Adele and Of Monsters and Men.
 
