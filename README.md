@@ -24,6 +24,7 @@ Been building open source since I was 16. Still at it.
 
 - [**Altair**](https://github.com/NourEldinShobier/altair): Ruby on Rails' conventions, rebuilt in TypeScript on Bun
 - [**Casty**](https://github.com/NourEldinShobier/casty): watch, hear and control your PC from another computer on your LAN. No cloud, no account
+- [**AI Search Engine**](https://github.com/NourEldinShobier/ai-search-engine): AI-powered deep search that researches topics across the web
 
 ## Flutter Open Source
 
