@@ -19,13 +19,11 @@ Been building open source since I was 16. Still at it.
 - [**claude-tuning**](https://github.com/NourEldinShobier/claude-tuning): one-command setup that makes Claude Code use fewer tokens
 - [**web-search**](https://github.com/NourEldinShobier/web-search): fast, token-efficient web research CLI for AI agents (web, news, Reddit, HN, GitHub, arXiv and more)
 - [**stash**](https://github.com/NourEldinShobier/stash): MCP server that indexes big outputs locally and returns only what the agent asks for
-- [**Second Brain OS**](https://github.com/NourEldinShobier/second-brain-os): CLI-first second brain for AI agents
 
 **Frameworks & apps**
 
 - [**Altair**](https://github.com/NourEldinShobier/altair): Ruby on Rails' conventions, rebuilt in TypeScript on Bun
 - [**Casty**](https://github.com/NourEldinShobier/casty): watch, hear and control your PC from another computer on your LAN. No cloud, no account
-- [**AI Search Engine**](https://github.com/NourEldinShobier/ai-search-engine): AI-powered deep search that researches topics across the web
 
 ## Flutter Open Source
 
