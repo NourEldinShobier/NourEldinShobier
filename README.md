@@ -12,7 +12,7 @@ Been building open source since I was 16. Still at it.
 - 🤖 Building tools that make AI agents faster, cheaper, and more useful
 - 🎌 Watching anime in my downtime
 
-## What I'm Building Now
+## Things I've Built
 
 **AI agent tooling**
 
