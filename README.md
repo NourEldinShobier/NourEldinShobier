@@ -9,18 +9,33 @@ Been building open source since I was 16. Still at it.
 ## Currently
 
 - 💼 Senior Software Engineer @ Sofatutor
+- 🤖 Building tools that make AI agents faster, cheaper, and more useful
 - 🎌 Watching anime in my downtime
 
-## Things I've Built
+## What I'm Building Now
 
-- [**Second Brain OS**](https://github.com/NourEldinShobier/second-brain-os) — CLI-first tool for AI agents
-- [**AI Search Engine**](https://github.com/NourEldinShobier/ai-search-engine) — AI-powered deep search that researches topics across the web
-- [**Flutter Carbon**](https://github.com/NourEldinShobier/carbon-flutter) — IBM Carbon design package system for Flutter
-- [**PMVVM**](https://github.com/NourEldinShobier/pmvvm) — State management package based on MVVM architecture for Flutter
+**AI agent tooling**
 
-## Technologies I Played with
+- [**claude-tuning**](https://github.com/NourEldinShobier/claude-tuning): one-command setup that makes Claude Code use fewer tokens
+- [**web-search**](https://github.com/NourEldinShobier/web-search): fast, token-efficient web research CLI for AI agents (web, news, Reddit, HN, GitHub, arXiv and more)
+- [**stash**](https://github.com/NourEldinShobier/stash): MCP server that indexes big outputs locally and returns only what the agent asks for
+- [**Second Brain OS**](https://github.com/NourEldinShobier/second-brain-os): CLI-first second brain for AI agents
 
-Node.js · TypeScript · Ruby on Rails · React · Flutter · AWS · Docker · N8N · Anthropic Claude · PostgreSQL · CircleCI · Stripe . Python
+**Frameworks & apps**
+
+- [**Altair**](https://github.com/NourEldinShobier/altair): Ruby on Rails' conventions, rebuilt in TypeScript on Bun
+- [**Casty**](https://github.com/NourEldinShobier/casty): watch, hear and control your PC from another computer on your LAN. No cloud, no account
+- [**AI Search Engine**](https://github.com/NourEldinShobier/ai-search-engine): AI-powered deep search that researches topics across the web
+
+## Flutter Open Source
+
+- [**Flutter Carbon**](https://github.com/NourEldinShobier/carbon-flutter) ⭐ 120: Flutter UI library based on IBM's Carbon Design System
+- [**PMVVM**](https://github.com/NourEldinShobier/pmvvm) ⭐ 52: clean & simple MVVM state management for Flutter
+- [**Scalable Flutter App**](https://github.com/NourEldinShobier/scalable_flutter_app) ⭐ 36: a guide to building scalable Flutter applications
+
+## Technologies I Work With
+
+TypeScript · Node.js · Bun · Ruby on Rails · React · Next.js · Flutter · Dart · Rust · Tauri · Python · PostgreSQL · Redis · AWS · Docker · CircleCI · Stripe · n8n · Anthropic Claude · MCP
 
 ## Writing
 
