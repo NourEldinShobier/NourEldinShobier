@@ -34,7 +34,7 @@ Been building open source since I was 16. Still at it.
 
 ## Technologies I Work With
 
-TypeScript · Node.js · Bun · Ruby on Rails · React · Next.js · Flutter · Dart · Tauri · Python · PostgreSQL · Redis · AWS · Docker · CircleCI · Stripe · n8n · Anthropic Claude
+TypeScript · Node.js · Bun · Ruby on Rails · React · Next.js · Flutter · Dart · Tauri · Python · PostgreSQL · Redis · AWS · Docker · CircleCI · Stripe · n8n · Claude Code
 
 ## Writing
 
